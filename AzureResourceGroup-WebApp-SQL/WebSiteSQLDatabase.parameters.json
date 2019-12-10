@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "hostingPlanName": {
-      "value": "test-plan"
+      "value": "zero-plan"
     },
     "administratorLogin": {
-      "value": "houssem"
+      "value": "zerobig"
     },
     "databaseName": {
       "value": "products"
